@@ -1070,8 +1070,7 @@
         ════════════════════════════════════════════════════ -->
         <div class="tab-panel project-grid" id="tab-code">
           <div class="empty-state">
-            <p>// no code projects yet</p>
-            <p>Copy a project-card block from the "All" tab and paste it here.</p>
+            <p>// under construction</p>
           </div>
         </div><!-- /tab-code -->
 
